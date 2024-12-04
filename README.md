@@ -1,4 +1,4 @@
-# MirrorNet: A Feature Alignment-based CNN Model for Discriminating COVID-19 Screening in CXR Images 
+# MirrorNet: A Feature Alignment-based CNN Model for Discriminating Tuberculosis Screening in CXR Images 
 
 This repositories is used for COVID-19 Classification of CXR Images. At present, it is only in the experimental stage and cannot be used for application!
 
